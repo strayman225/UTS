@@ -338,9 +338,9 @@ Partial Class LiquidationEntry_Form
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(1002, 298)
+        Me.Button2.Location = New System.Drawing.Point(927, 298)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(104, 26)
+        Me.Button2.Size = New System.Drawing.Size(252, 26)
         Me.Button2.TabIndex = 71
         Me.Button2.Text = "Add Receipt"
         Me.Button2.UseVisualStyleBackColor = True
