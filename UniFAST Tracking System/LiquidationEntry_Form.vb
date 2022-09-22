@@ -27,7 +27,7 @@ Public Class LiquidationEntry_Form
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
 
         Using img1 As OpenFileDialog = New OpenFileDialog()
-            img1.Filter = " choose image(*.jpg;*.png;*.gif;)|*.jpg;*.png;*.gif;"
+            img1.Filter = " choose image(*.pdf;)|*.pdf;"
 
             If img1.ShowDialog() = DialogResult.OK Then
                 Label1.Text = Path.GetFileName(img1.FileName)

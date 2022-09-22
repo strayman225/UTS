@@ -67,3 +67,37 @@ C:\Users\Python\Desktop\Systems\2022\UniFAST Tracking System - 091422\obj\Debug\
 C:\Users\Python\Desktop\Systems\2022\UniFAST Tracking System - 091422\obj\Debug\UniFAST Tracking System.xml
 C:\Users\Python\Desktop\Systems\2022\UniFAST Tracking System - 091422\obj\Debug\UniFAST Tracking System.pdb
 C:\Users\Python\Desktop\Systems\2022\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.ChangePass_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\UniFAST Tracking System.exe.config
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\UniFAST Tracking System.exe
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\UniFAST Tracking System.pdb
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\UniFAST Tracking System.xml
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Memory.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Text.Json.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Numerics.Vectors.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Buffers.dll
+E:\Github-Current\UTS\UniFAST Tracking System\bin\Debug\System.Text.Encodings.Web.dll
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.vbproj.AssemblyReference.cache
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.vbproj.SuggestedBindingRedirects.cache
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.exe.config
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.ADA_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.Add_Grantee_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.ChangePass_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.DV_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.Form1.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.LiquidationEntry_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.Liquidation_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.Main_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.Resources.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.UserRegistration_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.User_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.Voucher_Form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST_Tracking_System.ZoomAttachment_form.resources
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.vbproj.GenerateResource.cache
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.vbproj.CoreCompileInputs.cache
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.vbproj.CopyComplete
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.exe
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.xml
+E:\Github-Current\UTS\UniFAST Tracking System\obj\Debug\UniFAST Tracking System.pdb
